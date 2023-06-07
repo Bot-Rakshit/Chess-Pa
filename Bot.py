@@ -129,5 +129,4 @@ async def on_ready():
 async def introduce(ctx):
     await ctx.send("Hello! I'm Chess-Pa, your friendly chess assistant. I can help you find chess tournaments and keep you updated with the latest chess news. Use !help to see what I can do.")
 
-TOKEN = "MTExNDE5MjUwNzIxMTg4NjYyMg.GQDxA-.C8hScY-d9HYvb1MgtE2JEPDzzYpe5AYOVKB9VM"
 bot.run(TOKEN)
