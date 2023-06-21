@@ -1,0 +1,6 @@
+// pip install python packages to setup the local environment 
+
+discord
+fuzzywuzzy 
+requests
+bs4
