@@ -1,6 +1,7 @@
 // pip install python packages to setup the local environment 
 
 discord
+discord.ext
 fuzzywuzzy 
 requests
 bs4
